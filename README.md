@@ -1,5 +1,7 @@
 # i3 install
 
+![i3 screenshot](https://i.e33.io/img0/i3-Screenshot_2025-12-14.png)
+
 ### Features:
 - Custom [i3](https://i3wm.org) installation for [Arch](https://github.com/e33io/scripts/blob/main/arch-install-i3.sh) or [Debian](https://github.com/e33io/scripts/blob/main/debian-install-i3.sh)
 - Base set of apps for a ready-to-use desktop session
