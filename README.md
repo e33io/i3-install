@@ -1,7 +1,7 @@
 # i3 install
 
 ### Features:
-- Custom i3 installation for [Arch](https://github.com/e33io/scripts/blob/main/arch-install-i3.sh) or [Debian](https://github.com/e33io/scripts/blob/main/debian-install-i3.sh)
+- Custom [i3](https://i3wm.org) installation for [Arch](https://github.com/e33io/scripts/blob/main/arch-install-i3.sh) or [Debian](https://github.com/e33io/scripts/blob/main/debian-install-i3.sh)
 - Base set of apps for a ready-to-use desktop session
 - HiDPI or standard HD scaling setup option
 - Device specific optimizations for desktop, laptop or VM devices
